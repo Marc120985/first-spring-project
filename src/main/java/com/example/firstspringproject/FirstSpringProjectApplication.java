@@ -1,0 +1,18 @@
+package com.example.firstspringproject;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import java.util.ArrayList;
+
+@SpringBootApplication
+public class FirstSpringProjectApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(FirstSpringProjectApplication.class, args);
+
+
+
+    }
+
+}
